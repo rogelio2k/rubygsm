@@ -26,5 +26,5 @@ Gem::Specification.new do |s|
 		"sms"
 	]
 	
-	s.add_dependency("toholio-serialport", ["> 0.7.1"])
+	s.add_dependency("serialport", [">= 1.1.0"])
 end
